@@ -35,7 +35,7 @@ Yes.  Invite your neighbor, you best friend, your coworker, your kids.  You are 
 I don't know yet.  I suspect seeing what comes will inspire a direction.
 
 ## Can I remain anonymous
-If you don't want to use your name that's fine.  I do need permission to thread each person's contributions together but we can use a pseudonym. E.g., you get randomly assigned a name like anon24 that each contribution is credited to.
+Yes.  I do need permission to thread each person's contributions together but we can use a pseudonym. E.g., you get randomly assigned a name like anon24 that each contribution is credited to.
 
 
 ## Updates
