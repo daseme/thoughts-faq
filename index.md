@@ -1,11 +1,9 @@
 # Project FAQ
 
 ## What is this?
-There's that thing you see out of the corner of your eye that you keep thinking about.  
+The idea is to capture the array of things we think about.  Maybe one month you are thinking about your kid's education, or a book you read, something in the news, a home project, work related stuff, workouts, etc.  Maybe several months are the same thing.  
 
 This project asks you to share what that is once a month for twelve months (January–December 2026).
-
-What has your attention?  What are you thinking about? You can send a single word, a sentence, or pages of text, an image, a sound file,  a postcard a poem.  Whatever makes sense to you.  You decide what "what are you are thinking about" means.  
 
 ## How do I participate?
 Then, once a month, send me your contribution.  
@@ -18,11 +16,17 @@ Contributions for January–December 2026, submitted Feb 2026–Jan 2027.
 ## Where does it happen?
 Email, or through the regular mail
 
-## What do I need?
-A thought.  
+## Can I edit/change my submission after the fact? 
+Let's pretend you can't but if need be you can.    
 
-## Who’s organizing this?
-You know who.  I invited you.
+## What format does my submission need to be in?
+Any format you can deliver to me.  Anything that can arrive in an email or a text or through the post office.
+
+## Can I change formats (writing/photo/video) month to month? 
+Yes
+
+## Is this supposed to be formal (an essay or letter) or informal (notes, lists, unpolished ideas/observations)?
+Anyway you choose.  Getting something in is the achievement.  
 
 ## Can I invite someone
 Yes.  Invite your neighbor, you best friend, your coworker, your kids.  You are free to manage their contributions or send me their info.
@@ -30,9 +34,9 @@ Yes.  Invite your neighbor, you best friend, your coworker, your kids.  You are 
 ## What's going to happen to all this?
 I don't know yet.  I suspect seeing what comes will inspire a direction.
 
-## Hey, I'm worried about privacy
-If you don't want to use your name that's fine.  I do need permission to thread each person's contributions together but we can use a pseudonym.
+## Can I remain anonymous
+If you don't want to use your name that's fine.  I do need permission to thread each person's contributions together but we can use a pseudonym. E.g., you get randomly assigned a name like anon24 that each contribution is credited to.
 
 
 ## Updates
-Last updated: 2025-12-30
+Last updated: 2026-01-05
